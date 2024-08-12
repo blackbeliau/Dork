@@ -5,13 +5,17 @@ Please use it wisely. Although **OSINT is legal**, using the data for threatenin
 ## What and How To Use
 All programs use python and I run it on replit.
 1. **`d1ggl.py`**
+
 This is to search on **Google** using [inlink:] [intext:] [intitle:] [inurl:] [in:] [on:]
 
 2. **`d2ggl.py`**
+
 This is to search on **Google** using [filetype:] [ext:], each combined with [pdf] [doc] [docx] [xls] [xlsx] [ppt] [pptx] [txt] [text] [zip] [rar] [odp] [ods] [odt] [kml] [kmz] [xml]
 
 3. **`d1ddg.py`**
+
 This is to search on **DuckDuckGo** using [inlink:] [intext:] [intitle:] [inurl:] [in:] [on:]
 
 4. **`d2ddg.py`**
+
 This is to search on **DuckDuckGo** using [filetype:] [ext:], each combined with [pdf] [doc] [docx] [xls] [xlsx] [ppt] [pptx] [txt] [text] [zip] [rar] [odp] [ods] [odt] [kml] [kmz] [xml]
